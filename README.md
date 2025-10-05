@@ -167,21 +167,6 @@ FROM your_tables;
 
 ## 📁 Структура файлов в репозитории
 
-```
-portfolio_sql/
-├── queries/                    # SQL запросы
-│   ├── top_pharmacies.sql
-│   ├── top_drugs.sql
-│   ├── revenue_analysis.sql
-│   └── customer_analysis.sql
-├── results/                   # Результаты анализа
-│   ├── sales_report.csv
-│   └── customer_insights.csv
-├── documentation/            # Документация
-│   └── data_dictionary.md
-└── visualizations/           # Файлы для визуализации
-    └── sales_dashboard.pbix
-```
 
 ## 🚀 Дальнейшее развитие
 
